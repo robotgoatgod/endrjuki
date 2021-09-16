@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Endrju Vilcmeiers!
 
-Aspiring Software Developer, Currently focusing on C# and .NET ecosystem,
+Aspiring Software Developer, currently focusing on C# and .NET ecosystem,
 but I am always open to new challenges and learning opportunities.
 
 <!--
