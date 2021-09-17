@@ -6,16 +6,14 @@ but I am always open to new challenges and learning opportunities. 🚀
 📫 You can reach me on: [endrju.vilcmeiers@gmail.com](mailto:endrju.vilcmeiers@gmail.com) | [https://www.linkedin.com/in/endrju-vil/](https://www.linkedin.com/in/endrju-vil/)
 
 Skills:
-
-    C#/.NET, Ruby
-    Relational Databases & SQL
-    HTTP & WEB API
-    Unit Testing
-    Test Driven Development
-    Clean Code, SOLID
-    Design Patterns
-    HTML & CSS, VueJS, TypeScript & NodeJS basics
-
+- C#/.NET, Ruby
+- Relational Databases & SQL
+- HTTP & WEB API
+- Unit Testing
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/endrjuki/FlightPlanner/)
