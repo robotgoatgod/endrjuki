@@ -4,7 +4,7 @@ Aspiring Software Developer, currently focusing on C# and .NET ecosystem,
 but I am always open to new challenges and learning opportunities. 🚀
 
 Some of my projects:
-- ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server](https://github.com/endrjuki/FlightPlanner/)
+- ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/endrjuki/FlightPlanner/)
 - 🛴 [Scooter Rental Service (C#/.NET, Unit Testing, TDD)](https://github.com/endrjuki/ScooterRental)
 - 💎 [Todo List (Ruby, Sinatra)](https://github.com/endrjuki/todo_list)
 - 🚧 Quiz Application (ASP.NET Core, Entity Framework, SQlite) <- Currently WIP, have an early prototype built on Java Spring MVC and Thymeleaf, Boostrap on the frontend, but it's not ready for primetime 🙈
