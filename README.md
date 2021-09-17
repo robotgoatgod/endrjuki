@@ -3,7 +3,7 @@
 Aspiring Software Developer, currently focusing on C# and .NET ecosystem,
 but I am always open to new challenges and learning opportunities. 🚀
 
-📫 You can reach me on: [endrju.vilcmeiers@gmail.com](mailti:endrju.vilcmeiers@gmail.com) | [https://www.linkedin.com/in/endrju-vil/](https://www.linkedin.com/in/endrju-vil/)
+📫 You can reach me on: [endrju.vilcmeiers@gmail.com](mailto:endrju.vilcmeiers@gmail.com) | [https://www.linkedin.com/in/endrju-vil/](https://www.linkedin.com/in/endrju-vil/)
 
 Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/endrjuki/FlightPlanner/)
