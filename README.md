@@ -11,8 +11,15 @@ Some of my projects:
 - 💎 [Todo List (Ruby, Sinatra)](https://github.com/endrjuki/todo_list)
 - 🚧 Quiz Application (ASP.NET Core, Entity Framework, SQlite) <- Currently WIP, have an early prototype built on Java Spring MVC and Thymeleaf, Bootstrap on the frontend, but it's not ready for primetime 🙈
 
-
-
+Skills:
+- C#/.NET, Ruby
+- Relational Databases & SQL
+- HTTP & WEB API
+- Unit Testing
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 <!--
 **endrjuki/endrjuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
