@@ -3,6 +3,9 @@
 Aspiring Software Developer, currently focusing on C# and .NET ecosystem,
 but I am always open to new challenges and learning opportunities. 🚀
 
+Some of my projects:
+- 💎 [Todo List (Ruby, Sinatra)](https://github.com/endrjuki/todo_list) 
+
 <!--
 **endrjuki/endrjuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
