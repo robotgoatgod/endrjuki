@@ -19,7 +19,7 @@ Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/endrjuki/FlightPlanner/)
 - 🛴 [Scooter Rental Service (C#/.NET, Unit Testing, TDD)](https://github.com/endrjuki/ScooterRental)
 - 💎 [Todo List (Ruby, Sinatra)](https://github.com/endrjuki/todo_list)
-- 🌩️ [Azure Function - API Scraper (Azure Storage, Azure Functions, currently being refactored](https://github.com/endrjuki/AteaHomework/tree/dev)
+- 🌩️ [Azure Function - API Scraper (Azure Storage, Azure Functions, currently being refactored)](https://github.com/endrjuki/AteaHomework/tree/dev)
 - 🚧 Quiz Application (ASP.NET Core, Entity Framework, SQlite) <- Currently WIP, have an early prototype built on Java Spring MVC and Thymeleaf, Bootstrap on the frontend, but it's not ready for primetime 🙈
 
 
