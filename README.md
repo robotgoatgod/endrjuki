@@ -20,6 +20,7 @@ Some of my projects:
 - 🛴 [Scooter Rental Service (C#/.NET, Unit Testing, TDD)](https://github.com/endrjuki/ScooterRental)
 - 💎 [Todo List (Ruby, Sinatra)](https://github.com/endrjuki/todo_list)
 - 🌩️ [Azure Function - API Scraper (Azure Storage, Azure Functions)](https://github.com/endrjuki/AteaHomework/tree/dev)
+- 💸 [Bank API, Fetch Transactions. Tech task for Junior Python Developer at Nordigen](https://github.com/endrjuki/nordigen-task-bank-api)
 - 🚧 Quiz Application (ASP.NET Core, Entity Framework, SQlite) <- Currently WIP, have an early prototype built on Java Spring MVC and Thymeleaf, Bootstrap on the frontend, but it's not ready for primetime 🙈
 
 
